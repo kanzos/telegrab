@@ -49,7 +49,7 @@ TeleGrab: The Ultimate Telegram Channel & Group Archiver. Designed to grab every
 
 1. **Clone or download the project:**
 ```bash
-git clone https://github.com/1BitCode-Com/telegrab.git
+git clone https://github.com/kanzos/telegrab.git
 cd telegrab
 ```
 
@@ -210,7 +210,7 @@ See [CHANGELOG.md](CHANGELOG.md) for a complete list of changes and updates.
 
 <div align="center">
 
-**Made with ❤️ by [1BitCode-Com](https://github.com/1BitCode-Com)**
+**Made with ❤️**
 
 <img src="assets/banner.png" alt="Project Banner" width="800"/>
 
